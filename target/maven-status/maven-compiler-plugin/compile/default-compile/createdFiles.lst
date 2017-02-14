@@ -1,0 +1,10 @@
+io/github/cmrodriguez/saml/idp/SingleSignOnServlet.class
+io/github/cmrodriguez/saml/sp/SPConstants.class
+io/github/cmrodriguez/saml/idp/ArtifactResolutionServlet.class
+io/github/cmrodriguez/saml/tools/Tools.class
+io/github/cmrodriguez/saml/sp/SPCredentials.class
+io/github/cmrodriguez/saml/sp/resource/TargetResourceServlet.class
+io/github/cmrodriguez/saml/idp/IDPConstants.class
+io/github/cmrodriguez/saml/sp/ConsumerServlet.class
+io/github/cmrodriguez/saml/idp/IDPCredentials.class
+io/github/cmrodriguez/saml/sp/AccessFilter.class
