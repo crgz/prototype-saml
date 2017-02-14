@@ -7,7 +7,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <scm>
-    <developerConnection>scm:git:git@github.com:conrado-/prototype-contacts.git</developerConnection>
+    <developerConnection>scm:git:git@github.com:conrado-/prototype-saml.git</developerConnection>
   </scm>
   <dependencies>
     <dependency>
@@ -52,7 +52,6 @@
     </repository>
   </repositories>
   <build>
-    <finalName>${artifact.name}</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
