@@ -4,11 +4,11 @@
 
   <groupId>io.github.cmrodriguez</groupId>
   <artifactId>saml-in-action</artifactId>
-  <version>0.0.2</version>
+  <version>0.0.3-SNAPSHOT</version>
   <packaging>war</packaging>
   <scm>
     <developerConnection>scm:git:git@github.com:conrado-/prototype-saml.git</developerConnection>
-    <tag>saml-in-action-0.0.2</tag>
+    <tag>HEAD</tag>
   </scm>
   <distributionManagement>
     <repository>
