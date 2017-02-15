@@ -12,15 +12,10 @@
     <tag>HEAD</tag>
   </scm>
   <distributionManagement>
-    <repository>
-      <id>cmrodriguez-release</id>
-      <name>cmrodriguez Local Releases</name>
-      <url>http://localhost:8081/artifactory/libs-release-local/</url>
-    </repository>
     <snapshotRepository>
-      <id>cmrodriguez-snapshot</id>
-      <name>cmrodriguez Local Snapshots</name>
-      <url>http://localhost:8081/artifactory/libs-snapshot-local/</url>
+      <id>snapshots</id>
+      <name>alpha-snapshots</name>
+      <url>http://localhost:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
   </distributionManagement>
   <dependencies>
