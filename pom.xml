@@ -14,12 +14,12 @@
     <repository>
       <id>central</id>
       <name>alpha-releases</name>
-      <url>http://localhost:8081/artifactory/libs-release-local</url>
+      <url>file:///home/m/</url>
     </repository>
     <snapshotRepository>
       <id>snapshots</id>
       <name>alpha-snapshots</name>
-      <url>http://localhost:8081/artifactory/libs-snapshot-local</url>
+      <url>file:///home/m/</url>
     </snapshotRepository>
   </distributionManagement>
   <dependencies>
